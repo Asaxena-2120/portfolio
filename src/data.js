@@ -34,3 +34,4 @@ export const projects = [
   ];
 
   export const skills=['React', 'Javascript', 'HTML', 'Python']
+  export const AasthaImage = "./AasthaImage.png"
