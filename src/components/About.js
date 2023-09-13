@@ -10,7 +10,7 @@ export default function About() {
               Hi, I'm Aastha.
               
             </h1>
-            <p className="bg-">Full Stack Developer</p>
+            <p className="">Full Stack Developer</p>
             <p className="mb-8 leading-relaxed">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
               laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
