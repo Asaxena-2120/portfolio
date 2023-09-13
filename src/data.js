@@ -1,35 +1,35 @@
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Project 1",
+      subtitle: "CodeSharing",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://www.aasthasaxena.com/",
     },
     {
-      title: "React Tracks",
+      title: "React Project",
       subtitle: "React and Python",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://reedbarger.com",
+      link: "https://www.aasthasaxena.com/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Project 3",
+      subtitle: "CLI project",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://jsbootcamp.com",
+      link: "https://www.aasthasaxena.com/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "School",
+      subtitle: "Full STack Project",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://pythonbootcamp.com",
+      link: "https://www.aasthasaxena.com/",
     },
   ];
 
