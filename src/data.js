@@ -5,7 +5,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://www.aasthasaxena.com/",
+      link: "https://sites.google.com/view/aastha-saxena/",
     },
     {
       title: "React Project",
@@ -13,7 +13,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://www.aasthasaxena.com/",
+      link: "https://sites.google.com/view/aastha-saxena/",
     },
     {
       title: "Project 3",
@@ -21,7 +21,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://www.aasthasaxena.com/",
+      link: "https://sites.google.com/view/aastha-saxena/",
     },
     {
       title: "School",
@@ -29,7 +29,7 @@ export const projects = [
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
       image: "https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif",
-      link: "https://www.aasthasaxena.com/",
+      link: "https://sites.google.com/view/aastha-saxena/",
     },
   ];
 
